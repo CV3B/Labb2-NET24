@@ -1,0 +1,14 @@
+C:\Users\calle\RiderProjects\Labb2\Labb2\obj\Debug\net8.0\Labb2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calle\RiderProjects\Labb2\Labb2\obj\Debug\net8.0\Labb2.AssemblyInfoInputs.cache
+C:\Users\calle\RiderProjects\Labb2\Labb2\obj\Debug\net8.0\Labb2.AssemblyInfo.cs
+C:\Users\calle\RiderProjects\Labb2\Labb2\obj\Debug\net8.0\Labb2.csproj.CoreCompileInputs.cache
+C:\Users\calle\RiderProjects\Labb2\Labb2\bin\Debug\net8.0\Labb2.exe
+C:\Users\calle\RiderProjects\Labb2\Labb2\bin\Debug\net8.0\Labb2.deps.json
+C:\Users\calle\RiderProjects\Labb2\Labb2\bin\Debug\net8.0\Labb2.runtimeconfig.json
+C:\Users\calle\RiderProjects\Labb2\Labb2\bin\Debug\net8.0\Labb2.dll
+C:\Users\calle\RiderProjects\Labb2\Labb2\bin\Debug\net8.0\Labb2.pdb
+C:\Users\calle\RiderProjects\Labb2\Labb2\obj\Debug\net8.0\Labb2.dll
+C:\Users\calle\RiderProjects\Labb2\Labb2\obj\Debug\net8.0\refint\Labb2.dll
+C:\Users\calle\RiderProjects\Labb2\Labb2\obj\Debug\net8.0\Labb2.pdb
+C:\Users\calle\RiderProjects\Labb2\Labb2\obj\Debug\net8.0\Labb2.genruntimeconfig.cache
+C:\Users\calle\RiderProjects\Labb2\Labb2\obj\Debug\net8.0\ref\Labb2.dll
