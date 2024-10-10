@@ -2,8 +2,8 @@ namespace Labb2;
 
 public class LevelData
 {
-    // DET BLIR TVÅ INSTANSER AV DETTA
     private List<LevelElement> elements = new List<LevelElement>();
+
     public List<LevelElement> Elements { get { return elements; } }
 
     public void Load(string filename)
@@ -16,33 +16,30 @@ public class LevelData
         {
             for (int j = 0; j < file[i].Length; j++)
             {
+                switch (file[i][j])
                 {
-                    switch (file[i][j])
+                    case '#':
                     {
-                        case '#':
-                        {
-                            elements.Add(new Wall() {PostionX = j, PostionY = i});
-                            break;
-                        }
-                        case 'r':
-                        {
-                            elements.Add(new Rat() {PostionX = j, PostionY = i});
-                            break;
-                        }
-                        case 's':
-                        {
-                            elements.Add(new Snake() {PostionX = j, PostionY = i});
-                            break;
-                        }
-                        case '@':
-                        {
-                            elements.Add(new Player() { PostionX = j, PostionY = i });
-                            break;
-                        }
+                        elements.Add(new Wall() { PostionX = j, PostionY = i });
+                        break;
+                    }
+                    case 'r':
+                    {
+                        elements.Add(new Rat() { PostionX = j, PostionY = i });
+                        break;
+                    }
+                    case 's':
+                    {
+                        elements.Add(new Snake() { PostionX = j, PostionY = i });
+                        break;
+                    }
+                    case '@':
+                    {
+                        elements.Add(new Player() { PostionX = j, PostionY = i });
+                        break;
                     }
                 }
             }
         }
-        
     }
 }

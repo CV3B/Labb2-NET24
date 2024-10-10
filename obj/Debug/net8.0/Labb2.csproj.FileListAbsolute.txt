@@ -12,3 +12,4 @@ C:\Users\calle\RiderProjects\Labb2\Labb2\obj\Debug\net8.0\refint\Labb2.dll
 C:\Users\calle\RiderProjects\Labb2\Labb2\obj\Debug\net8.0\Labb2.pdb
 C:\Users\calle\RiderProjects\Labb2\Labb2\obj\Debug\net8.0\Labb2.genruntimeconfig.cache
 C:\Users\calle\RiderProjects\Labb2\Labb2\obj\Debug\net8.0\ref\Labb2.dll
+C:\Users\calle\RiderProjects\Labb2\Labb2\obj\Debug\net8.0\Labb2.sourcelink.json
